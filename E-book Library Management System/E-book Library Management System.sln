@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-book Library Management System", "E-book Library Management System\E-book Library Management System.csproj", "{BAD20D94-66AC-4227-89B7-56998D5CFECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD20D94-66AC-4227-89B7-56998D5CFECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD20D94-66AC-4227-89B7-56998D5CFECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD20D94-66AC-4227-89B7-56998D5CFECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD20D94-66AC-4227-89B7-56998D5CFECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF45C2D1-211D-431A-A9A5-2BD934ED98C1}
+	EndGlobalSection
+EndGlobal

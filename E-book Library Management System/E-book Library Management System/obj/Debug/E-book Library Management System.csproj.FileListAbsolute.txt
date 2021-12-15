@@ -1,0 +1,15 @@
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\bin\Debug\E-book Library Management System.exe.config
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\bin\Debug\E-book Library Management System.exe
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\bin\Debug\E-book Library Management System.pdb
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\obj\Debug\E-book Library Management System.csproj.AssemblyReference.cache
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\obj\Debug\E_book_Library_Management_System.Login.resources
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\obj\Debug\E_book_Library_Management_System.Properties.Resources.resources
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\obj\Debug\E-book Library Management System.csproj.GenerateResource.cache
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\obj\Debug\E-book Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\obj\Debug\E-book Library Management System.exe
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\obj\Debug\E-book Library Management System.pdb
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\obj\Debug\E_book_Library_Management_System.Admin.resources
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\obj\Debug\E_book_Library_Management_System.Reader.resources
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\obj\Debug\E_book_Library_Management_System.Register.resources
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\obj\Debug\E_book_Library_Management_System.R_Dashboard.resources
+C:\Users\Pranto\source\repos\E-book Library Management System\E-book Library Management System\obj\Debug\E_book_Library_Management_System.A_Dashboard.resources
